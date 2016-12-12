@@ -1,0 +1,1 @@
+spiplay-asio56.exe globalrecording.wav
